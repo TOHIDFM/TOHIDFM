@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TOHIDFM
-- 👀 I’m studying Mechanical Engineering.
-- 🌱 I’m currently learning how to control Mechanism by programming.
+- 👋 Hi, I’m @TOHIDFM.
+- 👀 Completed Mechanical Engineering.
+- ✅ Working on projects using Matlab, Python and Design Softwares!
 - 📫 How to reach me mokarramtohid@gmail.com
-Will apply for the Mechanical job soon 
-Good Luck
+- 🟢 The lastest project: pattern recognition of imbalance rotating mass in order to figure out a method to balance systems.
