@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TOHIDFM.
+- 👋 Hi, I’m Tohid.
 - 👀 Completed Mechanical Engineering.
 - ✅ Working on projects using Matlab, Python and Design Softwares!
 - 📫 How to reach me mokarramtohid@gmail.com
